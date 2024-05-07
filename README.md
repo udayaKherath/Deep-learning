@@ -38,8 +38,16 @@ Loss Function and Optimization: Dice Loss and Categorical Focal Loss functions w
   - U-Net Performance: The U-Net model's performance was visualized by generating sample predictions, displaying original images, true masks, and predicted masks to assess segmentation accuracy visually.
   - CNN Confusion Matrix: A confusion matrix was generated and displayed to evaluate the CNN model's classification performance, providing insights into its ability to correctly classify forest and deforestation images.
 
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Deep-learning/main/img3.png)
+
+## Final Outcome
+
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Deep-learning/main/img5.png)
+
 ## Results and Discussion
 The overall accuracy of the U-Net model was 95.39%, with a Jaccard coefficient of 0.8942. The validation set achieved an accuracy of 89.96% and a Jaccard coefficient of 0.8064. These results indicate that the model performed well on unseen test data.
+
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Deep-learning/main/img4.png)
 
 ## Conclusion
 
