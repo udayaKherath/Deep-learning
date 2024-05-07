@@ -1,4 +1,4 @@
-# Detect Deforestation Using Satellite Images (Galenbindunuwewa Region, Sri Lanka)
+# Detect Deforestation Using Satellite Images (Galenbindunuwewa Region, Sri Lanka) 
 
 ## Abstract
 
