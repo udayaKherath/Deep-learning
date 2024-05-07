@@ -8,8 +8,7 @@
 
 ### Method 1: FCN-based U-Net
 - Data Preprocessing
-  - Data Collection and Loading: Satellite images portraying forested and deforested regions were collected, and     
-    OpenCV was used to load the images while ensuring data integrity.
+  - Data Collection and Loading: Satellite images portraying forested and deforested regions were collected, and OpenCV was used to load the images while ensuring data integrity.
 
 ### Method 2: Custom CNN
 
