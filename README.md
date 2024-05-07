@@ -4,6 +4,9 @@
 
 <div style="text-align: justify;">This project leverages advanced techniques in remote sensing and deep learning to effectively classify areas impacted by deforestation in the Galenbindunuwewa region of Sri Lanka. By employing state-of-the-art models such as the FCN-based U-Net and custom CNN, spatial information is retained during image analysis. Through intensive model training using satellite data from recent deforestation events and meticulous hyperparameter optimization, the accuracy of the algorithms is comprehensively evaluated. The study aims to classify landscapes affected by human-induced deforestation using high-resolution remote sensing and deep learning. Land and forest cover maps were used as base data to construct accurate deep-learning datasets. The overall accuracy of the U-Net model was 95.39%, while the custom CNN achieved an accuracy of 88% in classifying forested and deforested areas.</div>
 
+## Main Process Architecture
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Deep-learning/main/img1.png)
+
 ## Methodology
 
 ### Method 1: FCN-based U-Net
