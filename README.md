@@ -7,6 +7,8 @@
 ## Methodology
 
 ### Method 1: FCN-based U-Net
+
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/Final-Year-Research/main/img3.png)
 - Data Preprocessing
   - Data Collection and Loading: Satellite images portraying forested and deforested regions were collected, and OpenCV was used to load the images while ensuring data integrity.
   - Image Cropping and Resizing: Images were cropped and resized to consistent dimensions using the Python Imaging Library (PIL) to preserve aspect ratios.
